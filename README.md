@@ -1,1 +1,0 @@
-# Sensor_Management_System
